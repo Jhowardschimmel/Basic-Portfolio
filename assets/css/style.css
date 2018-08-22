@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: #4aaaa5;
+    color: #777777;
+    background-image: url("../images/gravel.png");
+}
+
+header{
+    color: #4aaaa5;
+    background-color: #ffffff;
+    border: #cccccc;
+}
+
+.maincontent {
+    background-color: #ffffff;
+    border: #dddddd;
+    flex: 1;
+ 
+}
+
+
+
+
+
+.Flexbox {
+    margin: auto auto 0 auto;
+}
+
